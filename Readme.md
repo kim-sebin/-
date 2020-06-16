@@ -7,3 +7,4 @@ https://github.com/kim-sebin/-/blob/master/2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1
 ## 3 주차 과제 (2020.06.16)
 https://github.com/kim-sebin/-/blob/master/3%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C(2020.06.16).ipynb
 ## 4 주차 과제 (2020.06.16)
+https://github.com/kim-sebin/-/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C(2020.06.16).ipynb
